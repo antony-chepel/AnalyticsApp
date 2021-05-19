@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325752235311",
+    "project_id": "analytics-8a5a6",
+    "storage_bucket": "analytics-8a5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325752235311:android:5957ecb01031da67a26dda",
+        "android_client_info": {
+          "package_name": "com.tony_fire.googleanalyticsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325752235311-fkr4sommugcrocgps9fhpihamc829cff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz1VnpM5dn4YpWqnuMSOcA7jVtjKlP6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325752235311-fkr4sommugcrocgps9fhpihamc829cff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
